@@ -20,6 +20,7 @@
         }
     },
 
+
     multiQuote: {
         sel: function () {
             return window.location.pathname.indexOf("search_rooms.cmd") > -1 && jQuery('.rates-packages li').length > 0;
